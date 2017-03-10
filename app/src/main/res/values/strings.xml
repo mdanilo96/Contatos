@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="text_name">Nome</string>
+    <string name="text_email">Email</string>
+    <string name="text_telefone">Telefone</string>
+    <string name="text_endereco">Endereço</string>
+    <string name="text_bdok">Cadastro realizado com sucesso</string>
+    <string name="text_bderro">ERRRO AO CADASTRAR AO BD</string>
+    <string name="text_errologin">Usuário ou senha Incorretos!</string>
+</resources>
